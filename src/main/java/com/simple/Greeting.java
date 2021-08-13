@@ -17,7 +17,7 @@ public class Greeting
     
     public String getStatus(){
     	
-    	return "VeryBad";
+    	return "GOOD";
     	
     }
 }
