@@ -15,6 +15,7 @@ public class Greeting
        System.out.println(msg.getStatus());
     }
     
+    
     public String getStatus(){
     	
     	return "GOOD";
